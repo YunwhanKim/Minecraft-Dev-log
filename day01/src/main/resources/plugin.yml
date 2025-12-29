@@ -1,0 +1,4 @@
+name: day01
+version: '1.0-SNAPSHOT'
+main: com.study.day01.Day01
+api-version: '1.21'
